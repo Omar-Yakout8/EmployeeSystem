@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|d:\\fci\\.net\\employeesystem\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|d:\\fci\\.net\\employeesystem\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|d:\\fci\\.net\\employeesystem\\employeeapi\\employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|d:\\fci\\.net\\employeesystem\\employeeapi\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|d:\\fci\\.net\\employeesystem\\employeeapi\\employeeapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB69515D-6F02-450F-B8AA-8DAF74E0C9D0}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 282,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T13:47:33.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T02:48:03.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:27:26.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:09:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\FCI\\.NET\\EmployeeSystem\\EmployeeApi\\EmployeeApi\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:11:55.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

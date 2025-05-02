@@ -1,0 +1,10 @@
+# Ignore node and Angular build files
+node_modules/
+dist/
+
+# Ignore .NET build files
+bin/
+obj/
+
+# Ignore environment config
+.env
