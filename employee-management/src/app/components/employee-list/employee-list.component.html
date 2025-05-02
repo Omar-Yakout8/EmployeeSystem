@@ -1,0 +1,14 @@
+<h2>Employee Management</h2>
+<a routerLink="/add">Add New Employee</a>
+
+<ul *ngIf="employees.length > 0; else noData">
+  <li *ngFor="let emp of employees">
+    {{ emp.firstName }} {{ emp.lastName }} - {{ emp.position }}
+    <a [routerLink]="['/edit', emp.id]">Edit</a>
+    <button (click)="deleteEmployee(emp.id)">Delete</button>
+  </li>
+</ul>
+
+<ng-template #noData>
+  <p>No employees found.</p>
+</ng-template>

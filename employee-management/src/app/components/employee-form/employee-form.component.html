@@ -1,0 +1,8 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+    <input formControlName="firstName" placeholder="First Name" />
+    <input formControlName="lastName" placeholder="Last Name" />
+    <input formControlName="email" placeholder="Email" />
+    <input formControlName="position" placeholder="Position" />
+    <button type="submit">{{ isEdit ? 'Update' : 'Add' }} Employee</button>
+  </form>
+  
